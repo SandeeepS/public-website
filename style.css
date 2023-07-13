@@ -1,0 +1,21 @@
+.logo-icon img{
+    width: 8%;
+}
+#logo-colum{
+    display: flex;
+}
+.info{
+    background: url('https://i.pinimg.com/originals/a0/dd/e0/a0dde0f26462cb6b859b12035409965e.jpg');
+}
+.carousel-inner{
+    height: 75%;
+}
+.card:hover{
+    transform: scale(1.15);
+
+}
+@media (max-width:500px){
+    #exp{
+        background-color: aquamarine;
+    }
+}
